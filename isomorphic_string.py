@@ -15,4 +15,4 @@ def isomorpic(s,t):
     else:
         return False
 
-P(isomorpic('egg','abb'))
+print(isomorpic('egg','abb'))
